@@ -1,0 +1,4 @@
+1) open the project D:\ANGULAR\Angular_Samples\tour of heros\Source_Code
+2) open th eterminal and run: npm install
+3) start the service: ng serve
+4) open the URL http://localhost:4200/
